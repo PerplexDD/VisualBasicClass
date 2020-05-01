@@ -1,0 +1,24 @@
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\bin\Debug\DormandMealPlanCalc.exe.config
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\bin\Debug\DormandMealPlanCalc.exe
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\bin\Debug\DormandMealPlanCalc.pdb
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\bin\Debug\DormandMealPlanCalc.xml
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.vbprojAssemblyReference.cache
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.Resources.resources
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.vbproj.GenerateResource.cache
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.exe
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.xml
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.pdb
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.DormForm.resources
+C:\Users\Synnux\source\repos\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.MealForm.resources
+D:\Visual Studio Projects\DormandMealPlanCalc\bin\Debug\DormandMealPlanCalc.exe.config
+D:\Visual Studio Projects\DormandMealPlanCalc\bin\Debug\DormandMealPlanCalc.exe
+D:\Visual Studio Projects\DormandMealPlanCalc\bin\Debug\DormandMealPlanCalc.pdb
+D:\Visual Studio Projects\DormandMealPlanCalc\bin\Debug\DormandMealPlanCalc.xml
+D:\Visual Studio Projects\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.vbprojAssemblyReference.cache
+D:\Visual Studio Projects\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.DormForm.resources
+D:\Visual Studio Projects\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.MealForm.resources
+D:\Visual Studio Projects\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.Resources.resources
+D:\Visual Studio Projects\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.exe
+D:\Visual Studio Projects\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.xml
+D:\Visual Studio Projects\DormandMealPlanCalc\obj\Debug\DormandMealPlanCalc.pdb
