@@ -1,0 +1,22 @@
+C:\Users\Perpl\VB_Projects\CardIdentifier\bin\Debug\CardIdentifier.exe.config
+C:\Users\Perpl\VB_Projects\CardIdentifier\bin\Debug\CardIdentifier.exe
+C:\Users\Perpl\VB_Projects\CardIdentifier\bin\Debug\CardIdentifier.pdb
+C:\Users\Perpl\VB_Projects\CardIdentifier\bin\Debug\CardIdentifier.xml
+C:\Users\Perpl\VB_Projects\CardIdentifier\obj\Debug\CardIdentifier.vbprojAssemblyReference.cache
+C:\Users\Perpl\VB_Projects\CardIdentifier\obj\Debug\CardIdentifier.Form1.resources
+C:\Users\Perpl\VB_Projects\CardIdentifier\obj\Debug\CardIdentifier.Resources.resources
+C:\Users\Perpl\VB_Projects\CardIdentifier\obj\Debug\CardIdentifier.vbproj.GenerateResource.cache
+C:\Users\Perpl\VB_Projects\CardIdentifier\obj\Debug\CardIdentifier.exe
+C:\Users\Perpl\VB_Projects\CardIdentifier\obj\Debug\CardIdentifier.xml
+C:\Users\Perpl\VB_Projects\CardIdentifier\obj\Debug\CardIdentifier.pdb
+D:\Visual Studio Projects\CardIdentifier\bin\Debug\CardIdentifier.exe.config
+D:\Visual Studio Projects\CardIdentifier\bin\Debug\CardIdentifier.exe
+D:\Visual Studio Projects\CardIdentifier\bin\Debug\CardIdentifier.pdb
+D:\Visual Studio Projects\CardIdentifier\bin\Debug\CardIdentifier.xml
+D:\Visual Studio Projects\CardIdentifier\obj\Debug\CardIdentifier.vbprojAssemblyReference.cache
+D:\Visual Studio Projects\CardIdentifier\obj\Debug\CardIdentifier.Form1.resources
+D:\Visual Studio Projects\CardIdentifier\obj\Debug\CardIdentifier.Resources.resources
+D:\Visual Studio Projects\CardIdentifier\obj\Debug\CardIdentifier.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\CardIdentifier\obj\Debug\CardIdentifier.exe
+D:\Visual Studio Projects\CardIdentifier\obj\Debug\CardIdentifier.xml
+D:\Visual Studio Projects\CardIdentifier\obj\Debug\CardIdentifier.pdb
