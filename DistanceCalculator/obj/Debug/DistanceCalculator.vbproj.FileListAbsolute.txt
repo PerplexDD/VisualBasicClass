@@ -1,0 +1,22 @@
+C:\Users\Synnux\source\repos\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+C:\Users\Synnux\source\repos\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+C:\Users\Synnux\source\repos\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+C:\Users\Synnux\source\repos\DistanceCalculator\bin\Debug\DistanceCalculator.xml
+C:\Users\Synnux\source\repos\DistanceCalculator\obj\Debug\DistanceCalculator.vbprojAssemblyReference.cache
+C:\Users\Synnux\source\repos\DistanceCalculator\obj\Debug\DistanceCalculator.Form1.resources
+C:\Users\Synnux\source\repos\DistanceCalculator\obj\Debug\DistanceCalculator.Resources.resources
+C:\Users\Synnux\source\repos\DistanceCalculator\obj\Debug\DistanceCalculator.vbproj.GenerateResource.cache
+C:\Users\Synnux\source\repos\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+C:\Users\Synnux\source\repos\DistanceCalculator\obj\Debug\DistanceCalculator.xml
+C:\Users\Synnux\source\repos\DistanceCalculator\obj\Debug\DistanceCalculator.pdb
+D:\Visual Studio Projects\DistanceCalculator\bin\Debug\DistanceCalculator.exe.config
+D:\Visual Studio Projects\DistanceCalculator\bin\Debug\DistanceCalculator.exe
+D:\Visual Studio Projects\DistanceCalculator\bin\Debug\DistanceCalculator.pdb
+D:\Visual Studio Projects\DistanceCalculator\bin\Debug\DistanceCalculator.xml
+D:\Visual Studio Projects\DistanceCalculator\obj\Debug\DistanceCalculator.vbprojAssemblyReference.cache
+D:\Visual Studio Projects\DistanceCalculator\obj\Debug\DistanceCalculator.Form1.resources
+D:\Visual Studio Projects\DistanceCalculator\obj\Debug\DistanceCalculator.Resources.resources
+D:\Visual Studio Projects\DistanceCalculator\obj\Debug\DistanceCalculator.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\DistanceCalculator\obj\Debug\DistanceCalculator.exe
+D:\Visual Studio Projects\DistanceCalculator\obj\Debug\DistanceCalculator.xml
+D:\Visual Studio Projects\DistanceCalculator\obj\Debug\DistanceCalculator.pdb
