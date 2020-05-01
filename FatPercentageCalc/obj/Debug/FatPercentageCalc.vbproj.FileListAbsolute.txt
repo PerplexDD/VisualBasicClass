@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\bin\Debug\FatPercentageCalc.exe.config
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\bin\Debug\FatPercentageCalc.exe
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\bin\Debug\FatPercentageCalc.pdb
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\bin\Debug\FatPercentageCalc.xml
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\obj\Debug\FatPercentageCalc.vbprojAssemblyReference.cache
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\obj\Debug\FatPercentageCalc.Form1.resources
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\obj\Debug\FatPercentageCalc.Resources.resources
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\obj\Debug\FatPercentageCalc.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\obj\Debug\FatPercentageCalc.exe
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\obj\Debug\FatPercentageCalc.xml
+D:\Visual Studio Projects\FatPercentageCalc\FatPercentageCalc\obj\Debug\FatPercentageCalc.pdb
