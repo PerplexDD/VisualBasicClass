@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\StadiumSeating\bin\Debug\StadiumSeating.exe.config
+D:\Visual Studio Projects\StadiumSeating\bin\Debug\StadiumSeating.exe
+D:\Visual Studio Projects\StadiumSeating\bin\Debug\StadiumSeating.pdb
+D:\Visual Studio Projects\StadiumSeating\bin\Debug\StadiumSeating.xml
+D:\Visual Studio Projects\StadiumSeating\obj\Debug\StadiumSeating.vbprojAssemblyReference.cache
+D:\Visual Studio Projects\StadiumSeating\obj\Debug\StadiumSeating.Form1.resources
+D:\Visual Studio Projects\StadiumSeating\obj\Debug\StadiumSeating.Resources.resources
+D:\Visual Studio Projects\StadiumSeating\obj\Debug\StadiumSeating.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\StadiumSeating\obj\Debug\StadiumSeating.exe
+D:\Visual Studio Projects\StadiumSeating\obj\Debug\StadiumSeating.xml
+D:\Visual Studio Projects\StadiumSeating\obj\Debug\StadiumSeating.pdb
