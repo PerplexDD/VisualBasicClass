@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\HospitalCharges\bin\Debug\HospitalCharges.exe.config
+D:\Visual Studio Projects\HospitalCharges\bin\Debug\HospitalCharges.exe
+D:\Visual Studio Projects\HospitalCharges\bin\Debug\HospitalCharges.pdb
+D:\Visual Studio Projects\HospitalCharges\bin\Debug\HospitalCharges.xml
+D:\Visual Studio Projects\HospitalCharges\obj\Debug\HospitalCharges.vbprojAssemblyReference.cache
+D:\Visual Studio Projects\HospitalCharges\obj\Debug\HospitalCharges.Form1.resources
+D:\Visual Studio Projects\HospitalCharges\obj\Debug\HospitalCharges.Resources.resources
+D:\Visual Studio Projects\HospitalCharges\obj\Debug\HospitalCharges.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\HospitalCharges\obj\Debug\HospitalCharges.exe
+D:\Visual Studio Projects\HospitalCharges\obj\Debug\HospitalCharges.xml
+D:\Visual Studio Projects\HospitalCharges\obj\Debug\HospitalCharges.pdb
