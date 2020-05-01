@@ -1,0 +1,11 @@
+D:\Visual Studio Projects\AddingStudentsToAClub\bin\Debug\AddingStudentsToAClub.exe.config
+D:\Visual Studio Projects\AddingStudentsToAClub\bin\Debug\AddingStudentsToAClub.exe
+D:\Visual Studio Projects\AddingStudentsToAClub\bin\Debug\AddingStudentsToAClub.pdb
+D:\Visual Studio Projects\AddingStudentsToAClub\bin\Debug\AddingStudentsToAClub.xml
+D:\Visual Studio Projects\AddingStudentsToAClub\obj\Debug\AddingStudentsToAClub.vbprojAssemblyReference.cache
+D:\Visual Studio Projects\AddingStudentsToAClub\obj\Debug\AddingStudentsToAClub.Form1.resources
+D:\Visual Studio Projects\AddingStudentsToAClub\obj\Debug\AddingStudentsToAClub.Resources.resources
+D:\Visual Studio Projects\AddingStudentsToAClub\obj\Debug\AddingStudentsToAClub.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\AddingStudentsToAClub\obj\Debug\AddingStudentsToAClub.exe
+D:\Visual Studio Projects\AddingStudentsToAClub\obj\Debug\AddingStudentsToAClub.xml
+D:\Visual Studio Projects\AddingStudentsToAClub\obj\Debug\AddingStudentsToAClub.pdb
