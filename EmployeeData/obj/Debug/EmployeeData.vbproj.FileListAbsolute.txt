@@ -1,0 +1,22 @@
+C:\Users\Perpl\VB_Projects\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Perpl\VB_Projects\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Perpl\VB_Projects\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\Perpl\VB_Projects\EmployeeData\bin\Debug\EmployeeData.xml
+C:\Users\Perpl\VB_Projects\EmployeeData\obj\Debug\EmployeeData.vbprojAssemblyReference.cache
+C:\Users\Perpl\VB_Projects\EmployeeData\obj\Debug\EmployeeData.Form1.resources
+C:\Users\Perpl\VB_Projects\EmployeeData\obj\Debug\EmployeeData.Resources.resources
+C:\Users\Perpl\VB_Projects\EmployeeData\obj\Debug\EmployeeData.vbproj.GenerateResource.cache
+C:\Users\Perpl\VB_Projects\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Perpl\VB_Projects\EmployeeData\obj\Debug\EmployeeData.xml
+C:\Users\Perpl\VB_Projects\EmployeeData\obj\Debug\EmployeeData.pdb
+D:\Visual Studio Projects\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\Visual Studio Projects\EmployeeData\bin\Debug\EmployeeData.exe
+D:\Visual Studio Projects\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\Visual Studio Projects\EmployeeData\bin\Debug\EmployeeData.xml
+D:\Visual Studio Projects\EmployeeData\obj\Debug\EmployeeData.vbprojAssemblyReference.cache
+D:\Visual Studio Projects\EmployeeData\obj\Debug\EmployeeData.Form1.resources
+D:\Visual Studio Projects\EmployeeData\obj\Debug\EmployeeData.Resources.resources
+D:\Visual Studio Projects\EmployeeData\obj\Debug\EmployeeData.vbproj.GenerateResource.cache
+D:\Visual Studio Projects\EmployeeData\obj\Debug\EmployeeData.exe
+D:\Visual Studio Projects\EmployeeData\obj\Debug\EmployeeData.xml
+D:\Visual Studio Projects\EmployeeData\obj\Debug\EmployeeData.pdb
